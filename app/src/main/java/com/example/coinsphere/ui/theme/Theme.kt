@@ -52,7 +52,7 @@ fun CoinSphereTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = Typography,
+        typography = poppinsTypo,
         content = content
     )
 }
