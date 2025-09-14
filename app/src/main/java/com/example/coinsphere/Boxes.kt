@@ -22,7 +22,6 @@ import com.example.coinsphere.ui.theme.TextMain
 fun Boxes() {
     Column(
         modifier = Modifier
-            .fillMaxSize()
             .padding(16.dp)
     ) {
 
