@@ -52,6 +52,8 @@ fun MainPage() {
 
         Boxes()
 
+        PriceHeader()
+
 
         LazyColumn(
             modifier = Modifier
