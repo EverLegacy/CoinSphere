@@ -21,4 +21,8 @@ val cryptos = listOf(
     Cryptos(7, "USDC",      "$0.9998",     "https://cdn-icons-png.flaticon.com/128/14446/14446285.png"),
     Cryptos(8, "Dogecoin",  "$0.1320",     "https://cdn-icons-png.flaticon.com/128/7320/7320825.png"),
     Cryptos(9, "TRON",      "$0.3630",     "https://cdn-icons-png.flaticon.com/128/12114/12114250.png"),
+    Cryptos(10, "Cardano",      "$0.9178",     "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"),
+    Cryptos(11, "HyperLiquid",      "$54.02",     "https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png"),
+    Cryptos(12, "ChainLink",      "$24.67",     "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"),
+
 )
